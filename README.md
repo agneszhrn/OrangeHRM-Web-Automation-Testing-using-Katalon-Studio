@@ -16,8 +16,11 @@ To get started with the testing project, follow the steps below:
 #### Base URL OrangeHRM Application : 
 https://opensource-demo.orangehrmlive.com/
 
+#### Test Documentation : 
+https://docs.google.com/spreadsheets/d/1mcc9_MJFgVjauexc1gQztNquZGhxWd-b/edit?usp=sharing&ouid=115063764332650422029&rtpof=true&sd=true
+
 #### Testing Evidence (Result) :
-https://drive.google.com/drive/folders/1D2Jy1nNKNaP_H7ZJIFrzrhqd7f7scWBF?usp=sharing
+https://drive.google.com/drive/folders/1eWlgqMOGeTMAA0Ts463IK7w1p-8tJP2J?usp=sharing
 
 
 ### Contact Me
