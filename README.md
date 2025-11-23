@@ -1,13 +1,16 @@
 <h1 align="center">OrangeHRM Web Automation Testing using Katalon</h1>
 
-Cypress is the testing tools and assertion libraries for JavaScript that I use to create automated tests for OrangeHRM application. To get started with testing, please follow these steps:
-
+Katalon Studio is the automation testing tool I use to create end-to-end web test automation for the OrangeHRM application.
+To get started with the testing project, follow the steps below:
 1. Clone this repo to your computer.
-2. Open the `Test Case OrangeHRM` document to view the test cases.
-3. Navigate to the `Cypress Testing` directory.
-4. Run the command `npm install cypress --save-dev` to install all dependencies.
-5. Run the command `npx cypress open` to run all tests.
-
+2. Open the Test Case Documentation.
+   Review the `Test Case OrangeHRM` file to understand all test scenarios.
+4. Open the project using Katalon Studio.
+   - Download and install Katalon Studio.
+   - Open the project folder.
+   - Wait for all plugins and dependencies to load.
+6. Run Test Suites.
+   Open the `Test Suites` folder → Select `Sprint1` → Click Run ▶ using your preferred browser (Chrome/Edge/Firefox).
 
 
 #### Base URL OrangeHRM Application : 
