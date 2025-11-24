@@ -12,122 +12,122 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>2185db56-8ea9-4f83-a351-45f61c85819a</testSuiteGuid>
    <testCaseLink>
-      <guid>2fddc5bf-8d12-41cb-8b59-f1db8a98d5ed</guid>
+      <guid>b6831a04-1f9a-4914-997a-ab88b3a033de</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/01_Login/TC-001-Login with valid Username and Password</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>82b90af0-3637-41be-b592-54b10c050eff</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/01_Login/TC-002-Login with invalid Username</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>98ca6213-379c-41f3-9c60-16d0a004dfcb</guid>
+      <guid>eb83f0cc-1c04-4322-b424-5393ef951b9d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/01_Login/TC-003-Login with invalid Password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>426f8c14-ca3a-4117-9b7a-8ac9c20e49bb</guid>
+      <guid>16c95152-2d28-47c4-b54d-bd5638f61601</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/01_Login/TC-004-Login with invalid Username and Password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>09a08cb0-9e0a-4104-a50b-d3b2f63bb26e</guid>
+      <guid>9dc0088b-9578-4662-83b5-df2a39ef3c1c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/01_Login/TC-005-Login with blank field</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>f29c1eed-74db-44e2-a1d9-c1c19b5d6fc1</guid>
+      <guid>083cc970-9fb1-4d24-85eb-794f02afe817</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/02_Logout/TC-006-Success Logout</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>9cdd4b5e-2d08-41b2-a605-1cd9135a149c</guid>
+      <guid>4df9bb19-9e10-4fec-8df0-e2be78756b26</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/03_Menu PIM/TC-007-Go to menu PIM</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>7b173411-4005-41ee-b415-5ac34aafc527</guid>
+      <guid>b719bd4b-f2ef-484c-8a1c-3a4b0102943e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/04_PIM - Add Employee/TC-008-Success add Employee</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>31da44c5-50c3-4cc0-9fcc-9e27e50730ab</guid>
+      <guid>46580319-c9ac-40da-93b8-1004dcaeaed4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/04_PIM - Add Employee/TC-009-Add employees empty field</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>e0647211-7dfd-417f-9516-cda9cc83bfec</guid>
+      <guid>87ac5f30-985c-45d2-b31f-9bb424601eba</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/04_PIM - Add Employee/TC-010-Add user input Employee Id already exist</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>eddccbfe-dfeb-4642-b29c-07a79a7c9d5a</guid>
+      <guid>f9ccbbc7-b82b-4984-a11b-91c3e5af4dce</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/04_PIM - Add Employee/TC-011-Cancel to Add Employee</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>f70f01e5-39b1-420f-8d3a-38fb1dcfa939</guid>
+      <guid>fec828a9-ed66-43d3-9e16-8f6674b62dd6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/04_PIM - Add Employee/TC-012-Cancel to Add Employee 2</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>63d41214-7d59-4360-b87f-744fba43dba0</guid>
+      <guid>db6e47fe-efc0-4c10-99fe-c674b679b827</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/05_PIM - Search Employee/TC-013-Search employee by valid Employee Name</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>fb42e0f8-f6aa-4749-b5f3-52216bbb3e6b</guid>
+      <guid>23d63484-d1f4-43e0-a1ef-3df066918008</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/05_PIM - Search Employee/TC-014-Search employee by valid Employee Id</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>80a073a0-96ae-453f-a337-353a1d55f597</guid>
+      <guid>3b258d40-d76e-4dcc-85f4-e726d7c224ff</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/05_PIM - Search Employee/TC-015-Search employee by valid Employee Status</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>40f73c6c-360e-43bc-ae8b-46deba8a6fbc</guid>
+      <guid>870e8268-92f7-473f-8106-338445141588</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/05_PIM - Search Employee/TC-016-Empty Search Employee</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>e88665a1-218e-4cda-8399-bf558a955540</guid>
+      <guid>db3e710b-2865-4e87-b7a3-e76852b52b1c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/05_PIM - Search Employee/TC-017-Verify Reset button on Search Employee</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>1d1a9115-1ae5-4548-bf41-0a8d65714a3f</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/01_Login/TC-001-Login with valid Username and Password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
